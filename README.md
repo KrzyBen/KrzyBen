@@ -1,6 +1,6 @@
 # Hi, I'm Benjamin Manríquez — but call me Ben 👋
 
-**Computer Science student @ Universidad del Bío-Bío**  
+**Informatics Execution Engineering student @ Universidad del Bío-Bío**  
 Passionate about learning new things in programming and currently diving deep into **Artificial Intelligence**.
 
 ## About Me
